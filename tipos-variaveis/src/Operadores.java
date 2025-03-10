@@ -16,7 +16,7 @@ public class Operadores {
         System.out.println(modulo);
 
         // Operadores de comparação
-        boolean menorQue = 10 < 5; 
+        boolean menorQue = 10 < 5;  
         boolean maiorQue = 10 > 5;
         boolean menorOuIgual = 10 <= 5;
         boolean maiorOuIgual = 10 >= 5;
